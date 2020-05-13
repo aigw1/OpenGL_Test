@@ -1,0 +1,14 @@
+﻿  main.cpp
+C:\Users\Wolfgang\Desktop\coding\OpenGL_Test\OpenGL_Test\modelLoader.h(54,20): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+C:\Users\Wolfgang\Desktop\coding\OpenGL_Test\OpenGL_Test\modelLoader.h(19,16): warning C4101: "newFp": Unreferenzierte lokale Variable
+C:\Users\Wolfgang\Desktop\coding\OpenGL_Test\OpenGL_Test\modelLoader.h(16,10): warning C4101: "buffer": Unreferenzierte lokale Variable
+C:\Users\Wolfgang\Desktop\coding\OpenGL_Test\OpenGL_Test\main.cpp(89,20): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+C:\Users\Wolfgang\Desktop\coding\OpenGL_Test\OpenGL_Test\main.cpp(100,20): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+C:\Users\Wolfgang\Desktop\coding\OpenGL_Test\OpenGL_Test\main.cpp(105,20): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+C:\Users\Wolfgang\Desktop\coding\OpenGL_Test\OpenGL_Test\main.cpp(111,20): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+C:\Users\Wolfgang\Desktop\coding\OpenGL_Test\OpenGL_Test\main.cpp(114,20): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+C:\Users\Wolfgang\Desktop\coding\OpenGL_Test\OpenGL_Test\main.cpp(156,33): warning C4806: "!=": unsichere Operation: kein Wert vom Typ "bool" erweitert auf Typ "int" kann mit der angegebenen Konstante übereinstimmen
+C:\Users\Wolfgang\Desktop\coding\OpenGL_Test\OpenGL_Test\main.cpp(246,56): warning C4244: "Argument": Konvertierung von "Sint32" in "float", möglicher Datenverlust
+C:\Users\Wolfgang\Desktop\coding\OpenGL_Test\OpenGL_Test\main.cpp(246,37): warning C4244: "Argument": Konvertierung von "Sint32" in "float", möglicher Datenverlust
+C:\Users\Wolfgang\Desktop\coding\OpenGL_Test\OpenGL_Test\main.cpp(270,34): warning C4806: "!=": unsichere Operation: kein Wert vom Typ "bool" erweitert auf Typ "int" kann mit der angegebenen Konstante übereinstimmen
+  OpenGL_Test.vcxproj -> C:\Users\Wolfgang\Desktop\coding\OpenGL_Test\Debug\OpenGL_Test.exe
